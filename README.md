@@ -1,4 +1,4 @@
-# [Django React Berry] `full-stack`
+# [Django React dashboard] `full-stack`
 
 
 The backend logic is provided by a simple, `easy-to-extend` **DJANGO API Server** that manages the Authentication flow (login, registration, logout) using `JSON Web Tokens` (JWT). 
